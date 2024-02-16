@@ -16,3 +16,9 @@ input tag에는 여러가지 type을 지정할 수 있으며, 필드에 입력�
 * password 입력되는 데이터가 가려짐
 * submit 제출 버튼이 생성된다.
 * file 파일 업로드 버튼이 생성된다.multiple="multiple"을 추가하면 여러개의 파일 전송이 가능하다.
+
+### 예시
+
+```
+<input type="email" required name="email">
+```
